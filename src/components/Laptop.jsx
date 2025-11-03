@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import laptop from "../assets/laptop.svg";
 
 const Laptop = () => {
